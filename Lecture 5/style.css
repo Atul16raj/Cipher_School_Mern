@@ -1,0 +1,16 @@
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#selectById{
+    text-align: center;
+    color: aqua;
+}
+div ~p:hover{
+           background-color: yellow;
+}
+a[target]{
+    background-color: cyan;
+}
